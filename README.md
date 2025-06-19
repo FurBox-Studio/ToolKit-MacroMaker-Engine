@@ -5,3 +5,5 @@
 * **MacroMaker-Engine** – A modified version of AutoHotkey 1.1.37.02, optimized for **single-core processing**.
 
 * **MacroMaker-Engine 2** – An upgraded version of the original MacroMaker-Engine, optimized for **multi-core processing**, offering faster execution and tailored for complex projects or multi-threaded scripts.
+
+# 🔗 [Download](https://github.com/FurBox-Studio/ToolKit-MacroMaker-Engine/releases)
